@@ -1,6 +1,7 @@
 👨‍💻 Hi, I’m Edsel Septa Haryanto, im first year student of sotware engineer at telkom university
 👀 I’m interested in proggramming language, video editing, and content creator
 👑 I really fun to have friends to discuss about proggramming
+✨ Also known as Shiro
 
 
 <!---
